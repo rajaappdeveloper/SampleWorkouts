@@ -21,4 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SampleWorkouts"
 include(":app")
- 
+include(":notes")
